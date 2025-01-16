@@ -1,1 +1,2 @@
-# full_stack2017
+# MermaidChart
+marmaid is a javascript-based diagramatic and charting tool that use markdown-insipred text definition and a render to create and modify complex diagrams.diagrams like flow chart or sequence diagrams from the text can be generated.
